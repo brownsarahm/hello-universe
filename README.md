@@ -4,4 +4,7 @@ by: Sarah Brown
 date: 2026-06-02
 
 This is a practice repo.
+
 today is sunny
+the flowers outside are purple
+
